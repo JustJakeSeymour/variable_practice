@@ -2,7 +2,7 @@
 friend_name = "Matt"
 car = "Subaru"
 plant_name = "Sedum"
-
+car = "BMW"
 
 #Integers
 friend_rank = 1
@@ -15,3 +15,5 @@ owes_me = 32.00
 
 #Boolean
 skates = true
+need_moisture = true
+own_house = false
