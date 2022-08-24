@@ -17,3 +17,9 @@ owes_me = 32.00
 skates = true
 need_moisture = true
 own_house = false
+
+puts 123
+puts 456
+
+puts skates
+puts car
